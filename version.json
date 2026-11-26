@@ -1,0 +1,20 @@
+{
+ "format": 1,
+ "opra": {
+  "commit": "0b88ecd4",
+  "date": "2026-07-01",
+  "source": "https://github.com/opra-project/OPRA (dist/database_v1.jsonl, dist/assets, images)"
+ },
+ "built": "2026-11-26",
+ "licence": "OPRA's data is CC BY-SA 4.0 (https://github.com/opra-project/OPRA); unchanged but for its form. Brand logos are their owners' trademarks.",
+ "files": {
+  "opra.json": {
+   "size": 3463492,
+   "sha256": "4485d4b376bda61386cc1670fceb14ff8b0f229a2f5d57634c23cec629579ce8"
+  },
+  "art.json": {
+   "size": 1371302,
+   "sha256": "2b7e8728d1ee108ac4d0b5c46fd097268e67b125c280cf7bd4199ac3583ff4fd"
+  }
+ }
+}
